@@ -1,6 +1,6 @@
 # Olá, Chamo-me **Ruben Lopes** 👋
 
-Desenvolvedor Júnior | Em constante evolução.
+Programador Júnior | Em constante evolução.
 
 --- 
 
@@ -22,6 +22,6 @@ Desenvolvedor Júnior | Em constante evolução.
 
 ## Sobre Mim
 
-👨‍💻 Desenvolvedor apaixonado por **criar soluções úteis** e **trabalhar em equipa**.     
+👨‍💻 Programador apaixonado por **criar soluções úteis** e **trabalhar em equipa**.     
 🔧 Focado em **Java**, com planos de explorar **TypeScript** e **C#** no futuro.    
 🤝 **Sempre** disposto a ajudar, quando consigo.    
